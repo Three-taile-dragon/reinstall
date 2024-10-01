@@ -3,7 +3,7 @@
 # shellcheck disable=SC2086
 
 set -eE
-confhome=https://raw.githubusercontent.com/bin456789/reinstall/main
+confhome=https://raw.githubusercontent.com/Three-taile-dragon/reinstall/main
 confhome_cn=https://jihulab.com/bin456789/reinstall/-/raw/main
 # confhome_cn=https://mirror.ghproxy.com/https://raw.githubusercontent.com/bin456789/reinstall/main
 
